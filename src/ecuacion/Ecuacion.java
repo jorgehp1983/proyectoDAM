@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @author CESURMADRID
  */
 public class Ecuacion {
-   // clase principal que inicia la aplicacion
+   // clase principal que inicia la resolución de una ecuación de primer grado
     
     public static void main(String[] args) {
 
